@@ -1,0 +1,9 @@
+.h1-tag {
+  color: orange;
+  text-align: center;
+  margin: 40px;
+  font-size: 100px;
+  border: 1px solid black;
+  background-color: black;
+  font-family: cursive;
+}
